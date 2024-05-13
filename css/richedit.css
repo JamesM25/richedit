@@ -1,9 +1,9 @@
-.richeditor-root {
+.richedit-root {
     border: 1px solid black;
     background-color: lightgray;
 }
 
-.richeditor-input {
+.richedit-input {
     width: 100%;
     min-height: 100px;
     background-color: white;
@@ -13,15 +13,15 @@
     }
 }
 
-.richeditor-input-html {
+.richedit-input-html {
     width: 100%;
     background-color: white;
     font-family: monospace;
 }
 
-.richeditor-buttons {
+.richedit-buttons {
     user-select: none;
 }
-.richeditor-buttons button {
+.richedit-buttons button {
     cursor: pointer;
 }
